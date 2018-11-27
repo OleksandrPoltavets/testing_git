@@ -11,7 +11,7 @@ class ApplicationController < ActionController::Base
   end
 
   def authorize
-    redirect_to login_url, alert: 'Ви не авторизовані!' unless current_user or controller_name == 'sessions' or controller_name == 'users'
+    redirect_to login_url, alert: 'You are not authorized' unless current_user
   end
 
   helper_method :current_user
