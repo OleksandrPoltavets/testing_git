@@ -11,3 +11,5 @@ added commit 2 for demonstrating git rebase
 added commit 3 to demonstrate rebase
 
 added commit 4 to demonstrate rebase
+
+added commit 5 to demonstrate merge
