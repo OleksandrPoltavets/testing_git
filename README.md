@@ -13,3 +13,5 @@ added commit 3 to demonstrate rebase
 added commit 4 to demonstrate rebase
 
 added commit 6 to demonstrate merge
+
+added commit 7 to demonstrate merge
