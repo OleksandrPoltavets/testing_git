@@ -7,3 +7,5 @@ $ git checkout -b <new branch name>
 added commit 1 for demonstrating git rebase
 
 added commit 2 for demonstrating git rebase
+
+added commit 3 to demonstrate rebase
